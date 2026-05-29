@@ -24,3 +24,4 @@ else:
 <img width="420" height="218" alt="image" src="https://github.com/user-attachments/assets/f69972b6-1219-457a-8c31-4aa9b1cd3abc" />
 
 ## Result
+Thus, to write a python program that evaluates and prints the results of conditional statements and the output is verified successfully.
